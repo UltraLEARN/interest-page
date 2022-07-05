@@ -8,7 +8,7 @@
     font-family: montserrat;
     color: #5F0F40;
 }
-.nav-link{
+a.nav-link.px-5{
     color: #5F0F40;
 }
 a>.nav-link{
